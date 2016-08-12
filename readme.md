@@ -1,6 +1,6 @@
 # Características
 
-* É gerado uma entrada e uma saída
+* É gerado uma entrada (caractér '>') e uma saída (caractér '<') 
 * Baseado na entrada o sistema cria caminhos até chegar na saída
 * Utiliza backtrack
 
